@@ -1,4 +1,4 @@
-### Hi there 👋
+### </hello world!> 👋
 # 💫 About Me:
 Atualmente não estou trabalhando mas estou procurando recolocação profissional na área de dados ou desenvolvimento back-end <r>Estou procurando colaborar com a área de dados e back-end mas também um pouco com machine learning, deep learning e blockchain<br>Estou procurando ajuda com desenvolvimento front-end e criação de projetos/portifolio<br>Atualmente estou aprendendo Node.js<br>Pergunte-me sobre: dados, big data, redes neurais, desenvolvimento back-end, business intelligence, metodologias ágeis, e análise de dados <br>Fun fact: Nunca fui bom em exatas, mas passei a amar a área ao me envolver com tecnologia e programação após eu sair de meu antigo emprego
 
